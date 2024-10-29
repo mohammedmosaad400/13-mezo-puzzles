@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "678012370427",
+    "project_id": "mezo-fwazer",
+    "storage_bucket": "mezo-fwazer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678012370427:android:5c266c7595c1707fcf1f5e",
+        "android_client_info": {
+          "package_name": "com.street.fwazer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678012370427-fakh1afqcb50jh82820qibmg2act1ocs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.street.fwazer",
+            "certificate_hash": "ab2d9f447c57e994bec448588af67b5bb01d0d5f"
+          }
+        },
+        {
+          "client_id": "678012370427-ht7tcbjr1a9ljbcond8biq04l02eo5q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdTiSv6m1rYKetzhTFOG1nVb5RMfEbCxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678012370427-ht7tcbjr1a9ljbcond8biq04l02eo5q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
